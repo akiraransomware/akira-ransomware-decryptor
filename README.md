@@ -1,4 +1,5 @@
-#Akira Ransomware Decryptor
+# Akira Ransomware Decryptor
+
 Akira ransomware is one of the most dangerous ransomwares after Lockbit, Blackcat, and Black Basta. The ransomware uses very advanced cryptography to encrypt the data.
 Akira ransomware targets devices such as Windows, Linux, and Mac OS. There's a public decryptor available by Avast but that doesn't work for the latest version of akira ransomware.
 It uses .akira extension to encrypt the files and leave a ransomware note where you can see the contact information of hackers.
@@ -6,13 +7,17 @@ Today, we'll discuss about the Akira Ransomware Decryptor provided by [Akira Dec
 A demo video is offered here:
 
 [![Akira Decryptor Demo Video](https://img.youtube.com/vi/IEoT-TaQx4o&t=43s/0.jpg)](https://www.youtube.com/watch?v=IEoT-TaQx4o&t=43s)
+
 https://www.youtube.com/watch?v=IEoT-TaQx4o&t=43s
-#Akira Decryptor for Windows Server
+
+
+# Akira Decryptor for Windows Server
+
 As you know, akira ransomware targets Windows server as well as linux too. So, we'll also provide you decryptor for Windows server, you can with the demo video from the link given below.
 https://www.youtube.com/watch?v=IEoT-TaQx4o&t=43s
 
-#Akira Decryptor for ESXI
+# Akira Decryptor for ESXI
 Akira ransowmare targets esxi servers most often, you can learn about the decryptor for esxi from the link given below.
 https://www.youtube.com/watch?v=QhDkdT3cyPQ&t=186s
 
-###Note: The decryptor is paid and you can contact us to purchase the decryptor at akiradecryptor@gmail.com or visit akiradecryptor.org
+### Note: The decryptor is paid and you can contact us to purchase the decryptor at akiradecryptor@gmail.com or visit akiradecryptor.org
