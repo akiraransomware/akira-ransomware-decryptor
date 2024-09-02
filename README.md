@@ -21,3 +21,4 @@ Akira ransowmare targets esxi servers most often, you can learn about the decryp
 https://www.youtube.com/watch?v=QhDkdT3cyPQ&t=186s
 
 ### Note: The decryptor is paid and you can contact us to purchase the decryptor at akiradecryptor@gmail.com or visit akiradecryptor.org
+
